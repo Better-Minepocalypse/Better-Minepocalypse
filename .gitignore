@@ -15,3 +15,7 @@ usercache.json
 servers.dat
 .idea/material_theme_project_new.xml
 /.idea
+config/customloadingscreen_timings.nbt
+config/InvTweaks.cfg
+*.properties
+config/xaerominimap_entities.json

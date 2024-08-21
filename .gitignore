@@ -22,3 +22,4 @@ config/customloadingscreen_timings.nbt
 config/InvTweaks.cfg
 config/customloadingscreen_timings.nbt
 config/xaerominimap_entities.json
+config/splash.properties

@@ -1,3 +1,15 @@
 logs/
 saves/
 .curseclient
+/crash-reports
+*.log
+minecraftinstance.json
+options.txt
+optionsof.txt
+profileImage/DALL·E-2024-08-20-21.25.png
+/XaeroWaypoints
+/XaeroWaypoints_BACKUP032021
+/XaeroWorldMap
+usernamecache.json
+usercache.json
+servers.dat

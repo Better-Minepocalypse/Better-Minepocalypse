@@ -19,3 +19,14 @@ config/customloadingscreen_timings.nbt
 config/InvTweaks.cfg
 *.properties
 config/xaerominimap_entities.json
+config/xaerominimap_entities.json
+config/splash.properties
+config/jei/worldSettings.cfg
+config/jei/bookmarks.ini
+config/InvTweaks.cfg
+config/enhancedvisuals-client.json
+config/dynamiclights_onfire.cfg
+config/dynamiclights_entityclasses.cfg
+config/customloadingscreen_timings.nbt
+config/creativecore-client.json
+MINEPOCALYPSE OPTIMISED.zip
